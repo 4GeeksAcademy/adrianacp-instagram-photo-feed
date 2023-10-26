@@ -1,0 +1,97 @@
+body {
+    background: rgba(120, 166, 137, 0.591);
+    margin: 0%;
+}
+
+header {
+    background: rgb(255, 255, 255);
+    padding: 15px;
+}
+
+header h1 {
+    margin: 0%;
+
+}
+
+div.post {
+    background:white;
+}
+div.post .post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+div.post img{
+    width: 100%;
+}
+div.post h2, div.post span {
+    padding: 10px;
+    display: flex;
+}
+
+div.post span {
+    color:rgb(19, 95, 19);
+}
+div.container{
+    width: 600px;
+    margin: auto;
+}
+
+div.post p{
+    padding:10px;
+}
+
+
+
+
+
+div.post-2 {
+    background:white;
+}
+div.post-2 .post-header-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div.post-2 img{
+    width: 100%;
+}
+div.post-2 h2, div.post-2 span {
+    padding: 10px;
+    display: flex;
+}
+
+div.post-2 p{
+    padding:10px;
+}
+div.post-2 span {
+    color:rgb(19, 95, 19);
+}
+
+
+
+div.post-3 {
+    background:white;
+}
+div.post-3 .post-header-3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div.post-3 img{
+    width: 100%;
+}
+div.post-3 h2, div.post-3 span {
+    padding: 10px;
+    display: flex;
+}
+
+div.post-3 p{
+    padding:10px;
+}
+div.post-3 span {
+    color:rgb(19, 95, 19);
+}
